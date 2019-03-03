@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.voidbehemoth.UUAU.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "UpUpMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

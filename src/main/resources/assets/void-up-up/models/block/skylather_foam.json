@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "void-up-up:block/skylather_foam"
+  }
+}

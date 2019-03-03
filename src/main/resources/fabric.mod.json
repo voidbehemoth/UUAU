@@ -1,0 +1,18 @@
+{
+  "id": "void-up-up-and-update",
+  "name": "Up Up and Update!",
+  "description": "Putting u/axoladdy's idea intp reality",
+  "version": "${version}",
+  "side": "universal",
+  "initializers": [
+    "net.voidbehemoth.UUAU.UpUpAndUpdate",
+    "net.voidbehemoth.UUAU.client.UUAUClient"
+  ],
+  "requires": {
+    "fabric": "*"
+  },
+  "mixins": {
+    "client": "modid.client.json",
+    "common": "modid.common.json"
+  }
+}
